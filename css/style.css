@@ -1,0 +1,34 @@
+
+.margin_top{
+	margin-top: 20px;
+}
+
+.table_border{
+	border-spacing: 10px 0;
+	border-collapse: separate;
+}
+
+.text_align_right {
+	text-align: right;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.grey {
+	color: grey;
+}
+
+#results {
+	margin-top: 5px;
+}
+
+#map {
+	width:100%;
+	height:420px;
+	float: left;
+	cursor:default;
+	margin-bottom: 30px;
+}
+

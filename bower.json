@@ -1,0 +1,24 @@
+{
+  "name": "zadanie_php",
+  "description": "",
+  "main": "index.php",
+  "keywords": [
+    "zadanie",
+    "php"
+  ],
+  "authors": [
+    "J.Kanas"
+  ],
+  "license": "MIT",
+  "homepage": "index.php",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+	"bootstrap": "4.0"
+  }
+}
